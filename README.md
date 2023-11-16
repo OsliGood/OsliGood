@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osliadnan1&label=Profile%20views&color=0e75b6&style=flat" alt="osliadnan1" /> </p>
 
-- 🔭 I’m currently working on [HTML LUA CSS](https://feds.lol/osligood2)
+- 🔭 I’m currently working on [HTML LUA CSS, JavaScript](https://feds.lol/osligood2)
 
 - 🌱 I’m currently learning **React Native**
 
