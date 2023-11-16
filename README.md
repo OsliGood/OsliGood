@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/MPwgsfEuMW](https://discord.gg/MPwgsfEuMW)
 
-- 💬 Ask me about **Lead Developer Thes languages [Html, Css, Lua]**
+- 💬 Ask me about **Lead Developer Thes languages [Html, Css, Lua, JavaScript]**
 
 - 📫 How to reach me **osliadnan6@gmail.com**
 
